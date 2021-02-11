@@ -1,0 +1,9 @@
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Verifica_Caractere\bin\Debug\Verifica_Caractere.exe.config
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Verifica_Caractere\bin\Debug\Verifica_Caractere.exe
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Verifica_Caractere\bin\Debug\Verifica_Caractere.pdb
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Verifica_Caractere\obj\Debug\Verifica_Caractere.Form1.resources
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Verifica_Caractere\obj\Debug\Verifica_Caractere.Properties.Resources.resources
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Verifica_Caractere\obj\Debug\Verifica_Caractere.csproj.GenerateResource.cache
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Verifica_Caractere\obj\Debug\Verifica_Caractere.csproj.CoreCompileInputs.cache
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Verifica_Caractere\obj\Debug\Verifica_Caractere.exe
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Verifica_Caractere\obj\Debug\Verifica_Caractere.pdb

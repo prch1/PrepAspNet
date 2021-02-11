@@ -1,0 +1,13 @@
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\bin\Debug\netcoreapp3.1\DoWhile-3.exe
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\bin\Debug\netcoreapp3.1\DoWhile-3.deps.json
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\bin\Debug\netcoreapp3.1\DoWhile-3.runtimeconfig.json
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\bin\Debug\netcoreapp3.1\DoWhile-3.runtimeconfig.dev.json
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\bin\Debug\netcoreapp3.1\DoWhile-3.dll
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\bin\Debug\netcoreapp3.1\DoWhile-3.pdb
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\obj\Debug\netcoreapp3.1\DoWhile-3.csprojAssemblyReference.cache
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\obj\Debug\netcoreapp3.1\DoWhile-3.AssemblyInfoInputs.cache
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\obj\Debug\netcoreapp3.1\DoWhile-3.AssemblyInfo.cs
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\obj\Debug\netcoreapp3.1\DoWhile-3.csproj.CoreCompileInputs.cache
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\obj\Debug\netcoreapp3.1\DoWhile-3.dll
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\obj\Debug\netcoreapp3.1\DoWhile-3.pdb
+C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DoWhile-3\obj\Debug\netcoreapp3.1\DoWhile-3.genruntimeconfig.cache
