@@ -1,0 +1,12 @@
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\bin\Debug\netcoreapp3.1\PalavrasArray.exe
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\bin\Debug\netcoreapp3.1\PalavrasArray.deps.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\bin\Debug\netcoreapp3.1\PalavrasArray.runtimeconfig.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\bin\Debug\netcoreapp3.1\PalavrasArray.runtimeconfig.dev.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\bin\Debug\netcoreapp3.1\PalavrasArray.dll
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\bin\Debug\netcoreapp3.1\PalavrasArray.pdb
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\obj\Debug\netcoreapp3.1\PalavrasArray.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\obj\Debug\netcoreapp3.1\PalavrasArray.AssemblyInfo.cs
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\obj\Debug\netcoreapp3.1\PalavrasArray.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\obj\Debug\netcoreapp3.1\PalavrasArray.dll
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\obj\Debug\netcoreapp3.1\PalavrasArray.pdb
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\PalavrasArray\obj\Debug\netcoreapp3.1\PalavrasArray.genruntimeconfig.cache

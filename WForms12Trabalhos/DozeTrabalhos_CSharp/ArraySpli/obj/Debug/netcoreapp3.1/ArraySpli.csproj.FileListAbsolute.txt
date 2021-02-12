@@ -1,0 +1,12 @@
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\obj\Debug\netcoreapp3.1\ArraySpli.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\obj\Debug\netcoreapp3.1\ArraySpli.AssemblyInfo.cs
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\obj\Debug\netcoreapp3.1\ArraySpli.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\bin\Debug\netcoreapp3.1\ArraySpli.exe
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\bin\Debug\netcoreapp3.1\ArraySpli.deps.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\bin\Debug\netcoreapp3.1\ArraySpli.runtimeconfig.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\bin\Debug\netcoreapp3.1\ArraySpli.runtimeconfig.dev.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\bin\Debug\netcoreapp3.1\ArraySpli.dll
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\bin\Debug\netcoreapp3.1\ArraySpli.pdb
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\obj\Debug\netcoreapp3.1\ArraySpli.dll
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\obj\Debug\netcoreapp3.1\ArraySpli.pdb
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\ArraySpli\obj\Debug\netcoreapp3.1\ArraySpli.genruntimeconfig.cache

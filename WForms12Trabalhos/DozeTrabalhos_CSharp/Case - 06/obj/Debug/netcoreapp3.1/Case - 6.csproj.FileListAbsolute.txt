@@ -10,3 +10,16 @@ C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 
 C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\obj\Debug\netcoreapp3.1\Case - 6.dll
 C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\obj\Debug\netcoreapp3.1\Case - 6.pdb
 C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\obj\Debug\netcoreapp3.1\Case - 6.genruntimeconfig.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\bin\Debug\netcoreapp3.1\Case - 6.exe
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\bin\Debug\netcoreapp3.1\Case - 6.deps.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\bin\Debug\netcoreapp3.1\Case - 6.runtimeconfig.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\bin\Debug\netcoreapp3.1\Case - 6.runtimeconfig.dev.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\bin\Debug\netcoreapp3.1\Case - 6.dll
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\bin\Debug\netcoreapp3.1\Case - 6.pdb
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\obj\Debug\netcoreapp3.1\Case - 6.csprojAssemblyReference.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\obj\Debug\netcoreapp3.1\Case - 6.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\obj\Debug\netcoreapp3.1\Case - 6.AssemblyInfo.cs
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\obj\Debug\netcoreapp3.1\Case - 6.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\obj\Debug\netcoreapp3.1\Case - 6.dll
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\obj\Debug\netcoreapp3.1\Case - 6.pdb
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Case - 06\obj\Debug\netcoreapp3.1\Case - 6.genruntimeconfig.cache

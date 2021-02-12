@@ -8,3 +8,13 @@ C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTra
 C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\obj\Debug\DozeTrabalhos_CSharp.exe
 C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\obj\Debug\DozeTrabalhos_CSharp.pdb
 C:\Users\phoracio\Documents\Alura\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\obj\Debug\DozeTrabalhos_CSharp.Doze_Trabalhos.resources
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\bin\Debug\DozeTrabalhos_CSharp.exe.config
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\bin\Debug\DozeTrabalhos_CSharp.exe
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\bin\Debug\DozeTrabalhos_CSharp.pdb
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\obj\Debug\DozeTrabalhos_CSharp.csprojAssemblyReference.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\obj\Debug\DozeTrabalhos_CSharp.Doze_Trabalhos.resources
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\obj\Debug\DozeTrabalhos_CSharp.Properties.Resources.resources
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\obj\Debug\DozeTrabalhos_CSharp.csproj.GenerateResource.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\obj\Debug\DozeTrabalhos_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\obj\Debug\DozeTrabalhos_CSharp.exe
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\DozeTrabalhos_CSharp\obj\Debug\DozeTrabalhos_CSharp.pdb

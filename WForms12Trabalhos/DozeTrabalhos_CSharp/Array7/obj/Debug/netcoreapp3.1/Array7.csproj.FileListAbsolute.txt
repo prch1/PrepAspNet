@@ -1,0 +1,12 @@
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\bin\Debug\netcoreapp3.1\Array7.exe
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\bin\Debug\netcoreapp3.1\Array7.deps.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\bin\Debug\netcoreapp3.1\Array7.runtimeconfig.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\bin\Debug\netcoreapp3.1\Array7.runtimeconfig.dev.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\bin\Debug\netcoreapp3.1\Array7.dll
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\bin\Debug\netcoreapp3.1\Array7.pdb
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\obj\Debug\netcoreapp3.1\Array7.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\obj\Debug\netcoreapp3.1\Array7.AssemblyInfo.cs
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\obj\Debug\netcoreapp3.1\Array7.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\obj\Debug\netcoreapp3.1\Array7.dll
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\obj\Debug\netcoreapp3.1\Array7.pdb
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Array7\obj\Debug\netcoreapp3.1\Array7.genruntimeconfig.cache

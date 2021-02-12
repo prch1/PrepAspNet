@@ -1,0 +1,12 @@
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\bin\Debug\netcoreapp3.1\Metodo-8.exe
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\bin\Debug\netcoreapp3.1\Metodo-8.deps.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\bin\Debug\netcoreapp3.1\Metodo-8.runtimeconfig.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\bin\Debug\netcoreapp3.1\Metodo-8.runtimeconfig.dev.json
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\bin\Debug\netcoreapp3.1\Metodo-8.dll
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\bin\Debug\netcoreapp3.1\Metodo-8.pdb
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\obj\Debug\netcoreapp3.1\Metodo-8.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\obj\Debug\netcoreapp3.1\Metodo-8.AssemblyInfo.cs
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\obj\Debug\netcoreapp3.1\Metodo-8.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\obj\Debug\netcoreapp3.1\Metodo-8.dll
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\obj\Debug\netcoreapp3.1\Metodo-8.pdb
+C:\Users\paulo\Documents\Alura-Estudos\AspNetPrep\PrepAspNet\WForms12Trabalhos\DozeTrabalhos_CSharp\Metodo-8\obj\Debug\netcoreapp3.1\Metodo-8.genruntimeconfig.cache
